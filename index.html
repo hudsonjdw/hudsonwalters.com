@@ -3,11 +3,40 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Animation Website</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+        #animation-container {
+            width: 100%;
+            height: 100vh;
+        }
+    </style>
 </head>
 <body>
-    <h1> 
-        penis cock balls 
-    </h1>
+    <div id="animation-container"></div>
+
+    <script src="three.r134.min.js"></script>
+    <script src="vanta.birds.min.js"></script>
+    <script>
+        VANTA.BIRDS({
+            el: "#animation-container",
+            mouseControls: true,
+            touchControls: true,
+            gyroControls: false,
+            minHeight: 200.00,
+            minWidth: 200.00,
+            scale: 1.00,
+            scaleMobile: 1.00
+        });
+    </script>
+</body>
+</html>
+
+</script>
+
 </body>
 </html>
