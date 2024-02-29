@@ -17,7 +17,7 @@ body, html {
     display: flex;
     justify-content: center; /* horizontally center the content */
     align-items: center; /* vertically center the content */
-    font-size: 1.5em;
+    font-size: 24px;
     color: #FAF9F6;
     height: 100vh;
     font-family: Arial, sans-serif;
