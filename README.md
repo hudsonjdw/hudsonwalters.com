@@ -1,4 +1,4 @@
 personal site with some birds
 
-hudsonwalters.com
+https://www.hudsonwalters.com/
 
