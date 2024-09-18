@@ -1,5 +1,0 @@
-commit 53be28d33f35ab5f927d288269a349aa31e2c31e
-Author: hudsonjdw <hudsonjdwalters@gmail.com>
-Date:   Mon Feb 5 17:51:31 2024 -0600
-
-    started folder for hudsonwalters.com
